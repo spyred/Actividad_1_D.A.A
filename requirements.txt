@@ -1,0 +1,3 @@
+# Opcional: sólo para dibujar las figuras. Algoritmos, pruebas, experimentos
+# y tablas usan únicamente la biblioteca estándar de Python.
+matplotlib>=3.7

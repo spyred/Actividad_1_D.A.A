@@ -1,0 +1,66 @@
+{
+  "base_crecimiento_A": 2.6912661587357682,
+  "s_por_llamada_A": 1.267121409980419e-07,
+  "A_estimado_log10_s": {
+    "30": 5.792735980092527,
+    "50": 14.391868988167603,
+    "100": 35.8897015083553,
+    "1000": 422.85068687173384,
+    "4000": 1712.7206380829955
+  },
+  "pendiente_tiempo": {
+    "B": 2.111272082618974,
+    "C": 2.216426650316166
+  },
+  "pendiente_memoria": {
+    "B": 1.1702963626053204,
+    "C": 2.175509696709117
+  },
+  "bytes_por_celda_C": {
+    "100": 8.721497892363494,
+    "250": 8.285725623402802,
+    "500": 8.141903817116267,
+    "1000": 8.070997933135795,
+    "2000": 8.668591990861142,
+    "4000": 11.971836645937241
+  },
+  "cifras": {
+    "Nmax": 4000,
+    "Nabort": "100",
+    "Alimite": "30",
+    "Abase": "2{,}7",
+    "Allamada": "0{,}13",
+    "AestCien": "36",
+    "AestMil": "423",
+    "AaleN": 18,
+    "AaleLlamadas": "5{,}7\\cdot 10^{7}",
+    "AaleSeg": "7{,}0",
+    "CaleMicro": "27",
+    "Celdas": 361,
+    "Repeticiones": "1{,}6\\cdot 10^{5}",
+    "AdisN": "14",
+    "AdisLlamadas": "8{,}0\\cdot 10^{7}",
+    "AdisSeg": "10{,}7",
+    "AiguN": "30",
+    "AiguMicro": "10",
+    "CiguMicro": "97",
+    "PendTB": "2{,}11",
+    "PendTC": "2{,}22",
+    "PendMB": "1{,}2",
+    "RatioMin": "1{,}5",
+    "RatioMax": "2{,}1",
+    "TBmax": "2{,}3",
+    "TCmax": "1{,}5",
+    "MemCmil": "7{,}7",
+    "MemCmax": "182{,}8",
+    "MemBmax": "0{,}26",
+    "RatioMem": "710",
+    "FactMin": "4{,}0",
+    "FactMax": "5{,}5",
+    "CeldaMin": "8{,}1",
+    "CeldaMax": "12",
+    "GiBVeinteMil": "4{,}5",
+    "RssCmax": "183{,}3",
+    "Entorno": "Python 3.15.2 en Windows 11, procesador 12th Gen Intel(R) Core(TM) i5-1245U"
+  }
+}
