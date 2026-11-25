@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+memoria/*.aux
+memoria/*.log
+memoria/*.out
+memoria/*.toc
